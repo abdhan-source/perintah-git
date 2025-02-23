@@ -1,0 +1,28 @@
+create
+- git init
+- git clone
+
+make a change
+- git add <file>
+- git add .
+- git commit -m "<message>"
+- git reset <file>
+- gir reset --hard
+
+observe
+- git status
+- git diff
+- git show
+- git log
+
+sync
+- git push
+- git pull
+- git fetch
+- git push
+
+branch
+- git branch
+- git checkout
+- git merge
+- git tag.
