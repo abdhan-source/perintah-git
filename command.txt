@@ -15,6 +15,10 @@ observe
 - git show
 - git log
 
+remote
+- git remote add arigin http://github.com/gemblue/companyprofile.git
+- git remote -v
+
 sync
 - git push
 - git pull
