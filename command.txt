@@ -16,7 +16,7 @@ observe
 - git log
 
 remote
-- git remote add arigin http://github.com/gemblue/companyprofile.git
+- git remote add origin http://github.com/gemblue/companyprofile.git
 - git remote -v
 
 sync
